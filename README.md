@@ -1,23 +1,30 @@
 # yii2资料集 #
 
-[Yii2 干货集](https://github.com/forecho/awesome-yii2)
-[Yii 2.0 权威指南中文版](https://www.yiiframework.com/doc/guide/2.0/zh-cn)
-[GetYii：论坛](https://github.com/iiyii/getyii)
-[yincart2](https://github.com/yincart2/galaxy)：电商星系系统，提供零售、批发、特卖、垂直电商、分销、O2O、C2C、移动电商、微信电商、社交电商、P2P、众筹等电商解决方案，根据需要选择不同的模块组合
-[funshop](https://github.com/funson86/funshop)：一个灵活的商城
-[lulucms2](https://github.com/yiifans/lulucms2) ：LuLu CMS2，模块化开发，集成强大的权限管理功能，非常适合二次开发
-[Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
+## 我的 ##
+[yiiapps/adminlte-asset-ext](https://github.com/yiiapps/adminlte-asset-ext)
+
+## 其他人的 ##
+- [Yii2 干货集](https://github.com/forecho/awesome-yii2)
+- [Yii 2.0 权威指南中文版](https://www.yiiframework.com/doc/guide/2.0/zh-cn)
+- [GetYii：论坛](https://github.com/iiyii/getyii)
+- mdmsoft/yii2-admin RBAC Manager 基于角色的权限管理 扩展
+- [Yii2 Blog](https://github.com/funson86/yii2-blog)  blog扩展
+- [lulucms2](https://github.com/yiifans/lulucms2) ：LuLu CMS2，模块化开发，集成强大的权限管理功能，非常适合二次开发
+
+
+## 未验证 等待验证 ##
+- [yincart2](https://github.com/yincart2/galaxy)：电商星系系统，提供零售、批发、特卖、垂直电商、分销、O2O、C2C、移动电商、微信电商、社交电商、P2P、众筹等电商解决方案，根据需要选择不同的模块组合
+- [funshop](https://github.com/funson86/funshop)：一个灵活的商城
+- [Fecshop](https://github.com/fancyecommerce/yii2_fecshop) ：Fecshop 全称为 Fancy ECommerce Shop，是基于 PHP Yii2框架之上开发的一款优秀的开源电商系统。
 - robregonm/yii2-pdf：把 HTML 渲染成 PDF。
 - yii2tech/balance：强大的钱包系统。
 - zhuravljov/yii2-rest Yii2 REST 客户端
-- mdmsoft/yii2-admin RBAC Manager 基于角色的权限管理
-[yii2-user](https://github.com/dektrium/yii2-user)
-[yii2-setting](https://github.com/funson86/yii2-setting)：常见的在后台设置,可以使用在任何地方
+- [yii2-user](https://github.com/dektrium/yii2-user)
+- [yii2-setting](https://github.com/funson86/yii2-setting)：常见的在后台设置,可以使用在任何地方
 - CostaRico/yii2-images：图片尺寸裁剪解决方案
 - bedezign/yii2-audit：记录和显示web/cli请求，数据库更改php/js错误和相关数据。
 - Chiliec/yii2-vote：提供点赞的模块
-[yiier/yii2-rbac](https://github.com/yiier/yii2-rbac): 又一个 RBAC 模块
-[yiier/yii2-humans-log](https://github.com/yiier/yii2-humans-log): 人类能看得懂的操作日志
+- [yiier/yii2-humans-log](https://github.com/yiier/yii2-humans-log): 人类能看得懂的操作日志
 
 ## Extension 扩展 ##
 - yiisoft：Yii2 官方扩展
