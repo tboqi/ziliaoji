@@ -1,11 +1,14 @@
 # yii2资料集 #
 
 ## 我的 ##
-[yiiapps/adminlte-asset-ext](https://github.com/yiiapps/adminlte-asset-ext)
+[blogmodule](https://github.com/yiiapps/blogmodule) 一个blog [yiiapps/adminlte-asset-ext](https://github.com/yiiapps/adminlte-asset-ext)和[Yii2 Blog](https://github.com/funson86/yii2-blog)
+[yiiapps/adminlte-asset-ext](https://github.com/yiiapps/adminlte-asset-ext) 基于mdmsoft/yii2-admin和[dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset)
 
 ## 其他人的 ##
 - [Yii2 干货集](https://github.com/forecho/awesome-yii2)
 - [Yii 2.0 权威指南中文版](https://www.yiiframework.com/doc/guide/2.0/zh-cn)
+- [yii2-app-basic](https://github.com/yiisoft/yii2-app-basic) 基础模版
+- [yii2-app-advanced](https://github.com/yiisoft/yii2-app-advanced) 高级模版
 - [GetYii：论坛](https://github.com/iiyii/getyii)
 - mdmsoft/yii2-admin RBAC Manager 基于角色的权限管理 扩展
 - [Yii2 Blog](https://github.com/funson86/yii2-blog)  blog扩展
