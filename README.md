@@ -1,8 +1,8 @@
 # yii2资料集 #
 
 ## 我的 ##
-[blogmodule](https://github.com/yiiapps/blogmodule) 一个blog [yiiapps/adminlte-asset-ext](https://github.com/yiiapps/adminlte-asset-ext)和[Yii2 Blog](https://github.com/funson86/yii2-blog)
-[yiiapps/adminlte-asset-ext](https://github.com/yiiapps/adminlte-asset-ext) 基于mdmsoft/yii2-admin和[dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset)
+- [blogmodule](https://github.com/yiiapps/blogmodule) 一个blog [yiiapps/adminlte-asset-ext](https://github.com/yiiapps/adminlte-asset-ext)和[Yii2 Blog](https://github.com/funson86/yii2-blog)
+- [yiiapps/adminlte-asset-ext](https://github.com/yiiapps/adminlte-asset-ext) 基于mdmsoft/yii2-admin和[dmstr/yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset)
 
 ## 其他人的 ##
 - [Yii2 干货集](https://github.com/forecho/awesome-yii2)
